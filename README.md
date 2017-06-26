@@ -4,5 +4,9 @@
 npm install -g node-weather-app
 
 ### ussage
+```javascript
 $ weather -c <city>
-eg. $ weather -c Bangalo
+```
+```javascript
+$ weather -c Bangalore
+```
